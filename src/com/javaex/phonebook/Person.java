@@ -43,7 +43,7 @@ public class Person {
 	}
 	
 	public void List() {
-		System.out.println(name+"\t"+hp+"\t"+company);
+		System.out.println(".    "+name+"\t"+hp+"\t"+company);
 	}
 	
 }
